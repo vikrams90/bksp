@@ -473,4 +473,11 @@ main {
     width: 360px;
     height: 550px;
   }
+
+  .ifr {
+    width: 360px;
+    height: 180px;
+    margin-bottom: 20px;
+  }
+
 }
