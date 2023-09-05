@@ -433,6 +433,19 @@ main {
 }
 
 @media (max-width:768px) {
+
+  .hero{
+    background-image: url(./assets/bg.png);
+  }
+
+  #hidemobile{
+    display: none !important;
+    
+  }
+  .right-hero{
+    width: 100%;
+    padding-top: 154px;
+  }
   .ifr {
     width: 200px;
     height: 100px;
@@ -444,4 +457,11 @@ main {
     height: 550px;
   }
   
+}
+
+@media (max-width:576px) {
+  .mySwiper3 {
+    width: 360px;
+    height: 550px;
+  }
 }
