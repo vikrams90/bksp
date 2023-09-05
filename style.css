@@ -438,6 +438,12 @@ main {
     background-image: url(./assets/bg.png);
   }
 
+
+  .join-heading {
+    font-size: 36px;
+    line-height: 48px;
+  }
+
   #hidemobile{
     display: none !important;
     
