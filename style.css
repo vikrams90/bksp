@@ -401,6 +401,13 @@ main {
   font-size: 24px;
 }
 
+#contact-slider{
+  min-height: 100vh;
+  overflow: auto;
+}
+
+textarea { resize: none; }
+
 
 @media (min-width:992px) {
   .ifr {
